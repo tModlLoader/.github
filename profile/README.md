@@ -2,7 +2,7 @@
 
 [![Download Setup Assistant](https://img.shields.io/badge/Download-Setup_Assistant-blueviolet)](#)
 [![Version](https://img.shields.io/badge/Version-0.11.8.4-green)](https://github.com/tmodloader/tmodloader)
-[![Platform](https://img.shields.io/badge/Platform-Windows%20%7C%20Linux-blue)](#)
+[![Platform](https://img.shields.io/badge/Platform-Windows-blue)](#)
 [![License](https://img.shields.io/badge/License-Terraria-yellow)](#)
 
 ## 🎯 Overview
