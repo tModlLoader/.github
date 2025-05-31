@@ -3,7 +3,7 @@
 [![Download Setup Assistant](https://img.shields.io/badge/Download-Setup_Assistant-blueviolet)](#)
 [![Version](https://img.shields.io/badge/Version-0.11.8.4-green)](https://github.com/tmodloader/tmodloader)
 [![Platform](https://img.shields.io/badge/Platform-Windows%20%7C%20Linux-blue)](#)
-[![License](https://img.shields.io/badge/License-MIT-yellow)](#)
+[![License](https://img.shields.io/badge/License-Terraria-yellow)](#)
 
 ## 🎯 Overview
 
@@ -46,17 +46,7 @@ Professional deployment assistant for TModLoader designed for offline environmen
 
 ## 🖼️ Feature Preview
 
-![Advanced Mod Management Interface](https://placehold.co/800x450/2a2a2a/ffffff.png?text=Enhanced+Mod+Browser+Interface)
-*Enhanced mod browser with advanced filtering, batch installation, and dependency resolution*
-
-![Server Configuration Dashboard](https://placehold.co/800x450/1a4c96/ffffff.png?text=Server+Setup+Wizard)
-*Comprehensive server setup wizard with automated port configuration and world management*
-
-![Performance Optimization Panel](https://placehold.co/800x450/4a5c23/ffffff.png?text=Performance+Dashboard)
-*Real-time performance metrics and automated optimization settings for enhanced gameplay*
-
-![Enterprise Deployment Interface](https://placehold.co/800x450/7b2d8e/ffffff.png?text=Enterprise+Tools)
-*Professional deployment tools for educational institutions and corporate environments*
+![Advanced Mod Management Interface](https://i.imgur.com/9mSmgLW.png)
 
 ## 🔧 System Requirements
 
