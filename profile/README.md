@@ -46,16 +46,16 @@ Professional deployment assistant for TModLoader designed for offline environmen
 
 ## 🖼️ Feature Preview
 
-![Advanced Mod Management Interface](https://i.imgur.com/WQZvFwn.png)
+![Advanced Mod Management Interface](https://via.placeholder.com/800x450/2a2a2a/ffffff?text=Enhanced+Mod+Browser+Interface)
 *Enhanced mod browser with advanced filtering, batch installation, and dependency resolution*
 
-![Server Configuration Dashboard](https://i.imgur.com/Xk8LmQs.png) 
+![Server Configuration Dashboard](https://via.placeholder.com/800x450/1a4c96/ffffff?text=Server+Setup+Wizard) 
 *Comprehensive server setup wizard with automated port configuration and world management*
 
-![Performance Optimization Panel](https://i.imgur.com/9YhDcVr.png)
+![Performance Optimization Panel](https://via.placeholder.com/800x450/4a5c23/ffffff?text=Performance+Dashboard)
 *Real-time performance metrics and automated optimization settings for enhanced gameplay*
 
-![Enterprise Deployment Interface](https://i.imgur.com/P3mKrNx.png)
+![Enterprise Deployment Interface](https://via.placeholder.com/800x450/7b2d8e/ffffff?text=Enterprise+Tools)
 *Professional deployment tools for educational institutions and corporate environments*
 
 ## 🔧 System Requirements
