@@ -13,7 +13,7 @@ Professional deployment assistant for TModLoader designed for offline environmen
 
 1. **Download** the setup assistant using the button above
 2. **Extract** the archive using 7-Zip or WinRAR to your preferred directory
-3. **Run** the deployment tool as Administrator (Windows) or with sudo privileges (Linux)
+3. **Run** the deployment tool as Administrator
 4. **Follow** the automated installation wizard
 5. **Launch** TModLoader — all enhanced features will be available immediately
 
