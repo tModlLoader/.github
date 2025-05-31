@@ -44,9 +44,8 @@ Professional deployment assistant for TModLoader designed for offline environmen
 - Centralized configuration management
 - Educational licensing compliance
 
-## 🖼️ Feature Preview
-
 ![Advanced Mod Management Interface](https://i.imgur.com/9mSmgLW.png)
+*Current version: v0.11.8.4
 
 ## 🔧 System Requirements
 
